@@ -24,5 +24,5 @@
  🌱 I’m currently learning: 
 - I am  currently strengthening  my Data Analysis and  technical skills at WBS CODING SCHOOL by participating in a 3.5 months long full time course. 
 
-  🏗 I'm currently working on: 
+🏗 I'm currently working on: 
 - Final capestone project for WBS CODING SCHOOL curriculum 💪

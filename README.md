@@ -1,8 +1,5 @@
 ## Hi there, I am Sibulele and I enjoy solving business problems by  introducing new digital solutions and optimising processes 👋
 
-<!--
-**sngomane/sngomane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🎯 About Me: 
 
 I bring several years experience in tech and financial services sectors delivering complex initiatives focused on digital transformation. 

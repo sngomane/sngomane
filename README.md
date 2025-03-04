@@ -4,7 +4,7 @@
 
 ✅ I bring several years experience in tech and financial services sectors delivering complex initiatives focused on digital transformation. 
 
-✅ With a solid background in Business Analysis and Economics I am skilled at translating  data into actionable insights which has been central to my experience working as both a product and project manager.
+✅ With a solid background in Business Analysis I am skilled at translating  data into actionable insights which has been central to my experience working as both a product and project manager.
 
 ✅ I have the unique ability to  combine technical skills and soft skills (such as prioritization, stakeholder engagement, and effective communication)  to drive strategic alignment between different teams and  to inspire people to build optimal products. 
 

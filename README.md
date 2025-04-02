@@ -8,7 +8,7 @@
 
 ✅ I have the unique ability to  combine technical skills and soft skills (such as prioritization, stakeholder engagement, and effective communication)  to drive strategic alignment between different teams and  to inspire people to build optimal products. 
 
-🔧 Tech stack: 
+🔧 **Tech Stack:** 
 
 - MySQL 
 - Python 
@@ -21,7 +21,7 @@
 - Data Visualizations
   Tools: Tableau, Power BI,  Looker Studio
 
-  :pushpin: Selected Projects 
+  :pushpin: **Selected Projects:**
 
   1. [Product Development leveraging Unsupervised Machine Learning](https://github.com/sngomane/-Product-Development-Leveraging-Unsupervised-Machine-Learning)
 

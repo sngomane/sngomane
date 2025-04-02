@@ -21,6 +21,8 @@
 - Data Visualizations
   Tools: Tableau, Power BI,  Looker Studio
 
+  [Product Development leveraging Unsupervised Machine Learning](https://github.com/sngomane/-Product-Development-Leveraging-Unsupervised-Machine-Learning)
+
  🌱 I’m currently learning: 
 - I am  currently strengthening  my Data Analysis and  technical skills at WBS CODING SCHOOL by participating in a 3.5 months long full time course. 
 

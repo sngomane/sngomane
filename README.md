@@ -1,6 +1,6 @@
 ## Hi there, I am Sibulele and I enjoy solving business problems by  introducing new digital solutions and optimising processes 👋
 
- 🎯 About Me: 
+ 🎯 **About Me:**
 
 ✅ I bring several years experience in tech and financial services sectors delivering complex initiatives focused on digital transformation. 
 
@@ -21,7 +21,9 @@
 - Data Visualizations
   Tools: Tableau, Power BI,  Looker Studio
 
-  [Product Development leveraging Unsupervised Machine Learning](https://github.com/sngomane/-Product-Development-Leveraging-Unsupervised-Machine-Learning)
+  :pushpin: Selected Projects 
+
+  1. [Product Development leveraging Unsupervised Machine Learning](https://github.com/sngomane/-Product-Development-Leveraging-Unsupervised-Machine-Learning)
 
  🌱 I’m currently learning: 
 - I am  currently strengthening  my Data Analysis and  technical skills at WBS CODING SCHOOL by participating in a 3.5 months long full time course. 

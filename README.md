@@ -30,7 +30,7 @@
   :star:[Hangman Game in Python](https://github.com/sngomane/Hangman-Game-in-Python)
 
 🏗 I'm currently working on: 
-- Personal Project: Iterating Final capestone project presented at the end of WBS CODING SCHOOOL Data Analytics Bootcamp 💪
+- Personal Project: Iterating final capestone project presented at the end of WBS CODING SCHOOOL Data Analytics Bootcamp 💪
 
  🌱 Recent Learning Experience: 
 - I participated in a 3.5 months long full time course Data Analytics Bootcamp couse at WBS CODING SCHOOL where I strengthed my Data Analysis and technical skills. I also worked on a final capestone project which I presented on graduation day

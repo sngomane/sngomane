@@ -24,6 +24,7 @@
   :pushpin: **Selected Projects:**
 
   1. [Product Development leveraging Unsupervised Machine Learning](https://github.com/sngomane/-Product-Development-Leveraging-Unsupervised-Machine-Learning)
+  2. [E-commerce Market Expansion Case Study leveraging SQL and Tableau](https://github.com/sngomane/E-commerce-Market-Expansion-Case-Study-leveraging-SQL-and-Tableau)
 
  🌱 I’m currently learning: 
 - I am  currently strengthening  my Data Analysis and  technical skills at WBS CODING SCHOOL by participating in a 3.5 months long full time course. 

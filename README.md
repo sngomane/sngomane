@@ -1,6 +1,6 @@
 ## Hi there, I am Sibulele and I enjoy solving business problems by  introducing new digital solutions and optimising processes 👋
 
- 🎯 # About Me:
+ 🎯 **About Me:**
 
 ✅ I bring several years experience in tech and financial services sectors delivering complex initiatives focused on digital transformation. 
 

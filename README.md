@@ -23,9 +23,11 @@
 
   :pushpin: **Selected Projects:**
 
-  :star:     [Product Development leveraging Unsupervised Machine Learning](https://github.com/sngomane/-Product-Development-Leveraging-Unsupervised-Machine-Learning)
-  :star:     [E-commerce Market Expansion Case Study leveraging SQL and Tableau](https://github.com/sngomane/E-commerce-Market-Expansion-Case-Study-leveraging-SQL-and-Tableau)
-:star:       [Hangman Game in Python](https://github.com/sngomane/Hangman-Game-in-Python)
+  :star:[Product Development leveraging Unsupervised Machine Learning](https://github.com/sngomane/-Product-Development-Leveraging-Unsupervised-Machine-Learning)
+  
+  :star:[E-commerce Market Expansion Case Study leveraging SQL and Tableau](https://github.com/sngomane/E-commerce-Market-Expansion-Case-Study-leveraging-SQL-and-Tableau)
+  
+:star:[Hangman Game in Python](https://github.com/sngomane/Hangman-Game-in-Python)
 
  🌱 I’m currently learning: 
 - I am  currently strengthening  my Data Analysis and  technical skills at WBS CODING SCHOOL by participating in a 3.5 months long full time course. 

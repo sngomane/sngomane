@@ -27,10 +27,10 @@
   
   :star:[E-commerce Market Expansion Case Study leveraging SQL and Tableau](https://github.com/sngomane/E-commerce-Market-Expansion-Case-Study-leveraging-SQL-and-Tableau)
   
-:star:[Hangman Game in Python](https://github.com/sngomane/Hangman-Game-in-Python)
-
- 🌱 I’m currently learning: 
-- I am  currently strengthening  my Data Analysis and  technical skills at WBS CODING SCHOOL by participating in a 3.5 months long full time course. 
+  :star:[Hangman Game in Python](https://github.com/sngomane/Hangman-Game-in-Python)
 
 🏗 I'm currently working on: 
-- Final capestone project for WBS CODING SCHOOL curriculum 💪
+- Personal Project: Iterating Final capestone project presented at the end of WBS CODING SCHOOOL Data Analytics Bootcamp 💪
+
+ 🌱 Recent Learning Experience: 
+- I participated in a 3.5 months long full time course Data Analytics Bootcamp couse at WBS CODING SCHOOL where I strengthed my Data Analysis and technical skills. I also worked on a final capestone project which I presented on graduation day

@@ -6,7 +6,7 @@
 
 ✅ I have the unique ability to  combine technical skills and soft skills (such as prioritization, stakeholder engagement, and effective communication)  to drive strategic alignment between different teams and  to inspire people to build optimal products. 
 
-✅ With a solid foundation in Business Analysis I am skilled at translating  data into actionable insights which has been central to my experience working as both a product and project manager.
+✅ With a solid foundation in Business Analysis I am skilled at translating  data into actionable insights which has been central to my experience working as both a product and Digital Transformation manager.
 
 🔧 **Tech Stack:** 
 
